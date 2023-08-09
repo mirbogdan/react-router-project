@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "metallica",
+      "name": "Metallica",
+      "description": "Metallica is an American heavy metal band from USA",
+      "price": 749
+    },
+    {
+      "id": "imagine-dragons",
+      "name": "imagine-dragons",
+      "description": "Imagine Dragons is an American pop rock band based in Las Vegas.",
+      "price": 699
+    },
+    {
+      "id": "taylor-swift",
+      "name": "taylor-swift",
+      "description": "Taylor Swift is an American singer-songwriter",
+      "price": 699
+    },
+    {
+      "id": "3-nord-vest",
+      "name": "3-nord-vest",
+      "description": "3 Nord Vest is a future heavy metal band",
+      "price": 499
+    },
+    {
+      "id": "vita-de-vie",
+      "name": "Vita de Vie",
+      "price": 3433,
+      "description": "Romanian rock band."
+    }
+  ]
+}
